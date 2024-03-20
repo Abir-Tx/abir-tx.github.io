@@ -25,11 +25,11 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [],
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'My External Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -59,9 +59,11 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Mushfiqur Rahman Abir',
-    description: '',
-    imageURL: '',
+    title: 'Git Portfolio of Mushfiqur Rahman Abir',
+    description:
+      'A dynamic and lightweight portfolio for Mushfiqur Rahman Abir using Github projects and stats. Mushfiqur Rahman Abir AKA Abir-Tx is a Software Engineer, Photographer, and Content Creator.',
+    imageURL:
+      'https://i1.rgstatic.net/ii/profile.image/11431281085824721-1663906924347_Q512/Mushfiqur-Abir.jpg',
   },
   social: {
     linkedin: 'mushfiqur-rahman-abir',
@@ -162,22 +164,14 @@ const CONFIG = {
 
   publications: [
     {
-      title: 'Publication Title',
+      title:
+        'Extended reality in education and training: Enhancing trustworthiness',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'International Journal of Science and Research Archive',
+      authors: 'Mushfiqur Rahman Abir, Asif Zaman and Sawon Mursalin',
+      link: 'https://ijsra.net/content/extended-reality-education-and-training-enhancing-trustworthiness',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'Extended reality (XR) technology, including virtual reality (VR), augmented reality (AR), and mixed reality (MR), has the potential to revolutionize education by providing immersive and interactive learning experiences. However, to ensure successful implementation and adoption of XR in education, it is crucial to establish trust among all stakeholders. This paper presents a comprehensive framework for enhancing trust in XR technology in education and Training.',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
