@@ -184,7 +184,7 @@ const CONFIG = {
         conferenceName: '',
         journalName: 'IEEE Access',
         authors: 'Mushfiqur Rahman Abir,MD Tanzib Hossain, Asif Zaman, Sawon Mursalin, Shanjida Akter and Shadman sakeeb Khan',
-        link: 'https://ieeexplore.ieee.org/document/10499817'
+        link: 'https://ieeexplore.ieee.org/document/10499817',
         description: 'From pivotal roles in autonomous vehicles, healthcare diagnostics, and surveillance systems to seamlessly integrating with augmented reality, object detection algorithms stand as the cornerstone in unraveling the complexities of the visual world. Tracing the trajectory from conventional region-based methods to the latest neural network architectures reveals a technological renaissance where algorithms metamorphose into digital artisans. However, this journey is not without hurdles, prompting researchers to grapple with real-time detection, robustness in varied environments, and interpretability amidst the intricacies of deep learning. The allure of addressing issues such as occlusions, scale variations, and fine-grained categorization propels exploration into uncharted territories, beckoning the scholarly community to contribute to an ongoing saga of innovation and discovery. This research offers a comprehensive panorama, encapsulating the applications reshaping our digital reality, the advancements pushing the boundaries of perception, and the open issues extending an invitation to the next generation of visionaries to explore uncharted frontiers within object detection.'
     }
   ],
