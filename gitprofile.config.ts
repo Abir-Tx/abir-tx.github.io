@@ -84,13 +84,13 @@ const CONFIG = {
     stackoverflow: '13353813/mushfiqur-rahman-abir', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://abir-tx.github.io',
+    website: 'https://mr-abir.weebly.com',
     phone: '',
     email: 'abirtx@yandex.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://abir.tiiny.site', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
